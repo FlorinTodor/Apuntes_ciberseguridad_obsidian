@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75175f8ab069a506",
+        "id": "80cf506199545f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "a884c658be857453",
+            "id": "e19e68cc204ef93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/1.2.5 Estándares y metodologías.md",
+                "file": "Hacking/5.Explotacion vulnerabilidades/27. Tipos de exploit (explotación).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.5 Estándares y metodologías"
+              "title": "27. Tipos de exploit (explotación)"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,16 +169,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a884c658be857453",
+  "active": "e19e68cc204ef93b",
   "lastOpenFiles": [
+    "Hacking/5.Explotacion vulnerabilidades/25.Tipos de Shells.md",
+    "Hacking/5.Explotacion vulnerabilidades/26.Tipos de Payloads.md",
+    "Hacking/5.Explotacion vulnerabilidades/IMAGES/Pasted image 20240814230351.png",
+    "Hacking/5.Explotacion vulnerabilidades/IMAGES/Pasted image 20240814230003.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125303.png",
+    "Hacking/5.Explotacion vulnerabilidades/IMAGES/Pasted image 20240814230722.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806000639.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002542.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002622.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125119.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125205.png",
+    "Hacking/5.Explotacion vulnerabilidades/IMAGES/Pasted image 20240814234604.png",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.1 Services/20.SMB-SAMBA.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.1 Services/19.HTTP-HTTPS.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.1 Services/18.SSH.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/24. CMS-Magento.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/23. CMS-Drupal.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/22.CMS-Joomla.md",
+    "Hacking/4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/21.CMS-WordPress.md",
+    "Hacking/5.Explotacion vulnerabilidades/27. Tipos de exploit (explotación).md",
+    "Hacking/5.Explotacion vulnerabilidades/28.Enumeración del sistema.md",
+    "Hacking/7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/1.Pruebas RFI.md",
+    "Hacking/7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/0. RFI.md",
+    "Hacking/2.Reconocimiento/1.NMAP/1.NMAP.md",
+    "Hacking/2.Reconocimiento/1.NMAP/2.Técnicas de evasión de Firewalls.md",
+    "Hacking/2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
+    "Hacking/2.Reconocimiento/2.Alternativas/4.Alternativas para la enumeración.md",
+    "Hacking/3.Docker/15.Introducción a Docker.md",
+    "Hacking/3.Docker/sortspec.md",
+    "Hacking/3.Docker/16. Laboratorios.md",
+    "Hacking/1.Conceptos Básicos/sortspec.md",
+    "Hacking/1.Conceptos Básicos/5.Subnetting.md",
+    "Hacking/1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "Hacking/1.Conceptos Básicos/3.Modelo OSI.md",
     "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/Práctica_de_laboratorio-Comparación_de_metodologías_de_pruebas_de_penetración.html",
     "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/Sin confirmar 944689.crdownload",
     "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/Sin confirmar 466060.crdownload",
     "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/Sin confirmar 600572.crdownload",
-    "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/1.2.3 Consideraciones ambientales.md",
-    "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/1.2.5 Estándares y metodologías.md",
-    "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/1.2.2 Por qué debemos de seguir una metodología.md",
-    "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester/1.2.1 Descripción general.md",
     "Ethical Hacker Cisco/Modulo 1 Introducción/1.2 Exploración de las metodologías de pruebas de pentester",
     "Ethical Hacker Cisco/Modulo 1 Introducción",
     "Ethical Hacker Cisco"
